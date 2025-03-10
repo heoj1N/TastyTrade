@@ -1,0 +1,76 @@
+# Wolt Stack:
+https://jobs.smartrecruiters.com/Wolt/744000044718023-fullstack-engineer-scala-kotlin-and-react-self-delivery
+
+Wolt employs a diverse set of technologies to power its platform:
+
+Backend: Primarily utilizes Scala and Kotlin, with some services developed in Python. 
+CAREERS.WOLT.COM
+
+Frontend: Leverages React with TypeScript for building interactive user interfaces. 
+JOBS.SMARTRECRUITERS.COM
+
+Data Storage: Uses databases such as PostgreSQL and MongoDB to manage data effectively. 
+ECHOJOBS.IO
+
+Messaging and Streaming: Incorporates Kafka for real-time data processing and communication between services. 
+ECHOJOBS.IO
+
+Infrastructure: Runs on AWS, utilizing Kubernetes for orchestration and Docker for containerization, ensuring scalable and resilient deployments. 
+MEETUP.COM
+
+Backend:
+Kotlin 
+Scala
+Python 
+Kafka
+MongoDB
+
+FrontEnd:
+React
+Typescript
+
+# Eatclub Stack: 
+https://eatclub.com.au/
+https://apps.apple.com/au/app/eatclub-restaurant-deals/id1053752571
+https://play.google.com/store/apps/details?id=dinnerdeal.android.customer&hl=en&gl=gb
+
+Next.js: The presence of /_next/static/ paths in the <link> and <script> tags, along with the NEXT-ROUTE-ANNOUNCER tag and self.__next_f variable, strongly indicates that Next.js is used as the React framework.
+Material UI (MUI): The <style> tags with data-emotion="mui-global" and data-emotion="mui" are clear indicators of Material UI being used as the UI component library. The data-s attribute in the style tags is also a characteristic of MUI's styling solution.
+Tailwind CSS: The w-full mx-auto class on a <div> element in the body suggests the use of Tailwind CSS for utility-first styling.
+Therefore, the application is most likely built using Next.js, Material UI (MUI), and Tailwind CSS.
+
+# Bite Stack:
+Frontend:
+React + TypeScript
+Next.js
+
+Backend:
+Node.js with Express or NestJS
+
+Database:
+PostgreSQL
+MongoDB
+
+Messaging and Streaming:
+Apache Kafka
+
+Infrastructure:
+AWS or GCP
+Docker and Kubernetes
+
+# UI Template Sites:
+https://uizard.io/templates/mobile-app-templates/mobile-food-delivery-app
+Pricing: https://app.uizard.io/onboarding
+
+Tool	    Pricing (10=Best)	Ease of Use (10=Best)	Features (10=Best)	Community Support (10=Best)	Collaboration (10=Best)	Total Score
+Figma	    8	10	10	10	10	48/50 🥇
+Uizard.io	8	10	8	7	9	42/50 🥈
+Adobe XD	8	9	9	9	8	43/50 🥈
+Sketch	    7	9	9	9	7	41/50 🥉
+InVision	7	9	8	8	9	41/50 🥉
+Balsamiq	9	10	6	7	6	38/50
+
+# Apple Apps:
+https://www.apple.com/us/search/eatclub?sel=explore&src=globalnav&tab=explore&page=1
+
+# Gplay Apps:

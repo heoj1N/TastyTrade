@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <!-- Background Clouds -->
+  <ellipse cx="140" cy="100" rx="70" ry="40" fill="#8cd1f6" opacity="0.7" />
+  <ellipse cx="335" cy="90" rx="45" ry="25" fill="#8cd1f6" opacity="0.7" />
+  <ellipse cx="560" cy="110" rx="60" ry="30" fill="#8cd1f6" opacity="0.7" />
+  
+  <!-- Buildings -->
+  <!-- Green Store with Awning -->
+  <rect x="80" y="150" width="200" height="170" rx="5" fill="#7ed957" />
+  <rect x="90" y="170" width="40" height="40" rx="2" fill="#f2ffed" />
+  <rect x="150" y="170" width="40" height="40" rx="2" fill="#f2ffed" />
+  <rect x="210" y="170" width="40" height="40" rx="2" fill="#f2ffed" />
+  <rect x="90" y="230" width="40" height="40" rx="2" fill="#f2ffed" />
+  <rect x="150" y="230" width="40" height="40" rx="2" fill="#f2ffed" />
+  <rect x="210" y="230" width="40" height="40" rx="2" fill="#f2ffed" />
+  <path d="M60 320 L300 320 L280 280 L80 280 Z" fill="#5cb82b" />
+  <path d="M110 280 L130 280 L130 320 L110 320 Z" fill="#5cb82b" />
+  <path d="M170 280 L190 280 L190 320 L170 320 Z" fill="#5cb82b" />
+  <path d="M230 280 L250 280 L250 320 L230 320 Z" fill="#5cb82b" />
+  
+  <!-- Blue Pharmacy Building -->
+  <rect x="110" y="150" width="140" height="120" rx="0" fill="#55c3e6" />
+  <circle cx="180" cy="210" r="35" fill="#ffffff" stroke="#44aed2" stroke-width="6" />
+  <path d="M180 185 L180 235 M155 210 L205 210" stroke="#44aed2" stroke-width="6" />
+  
+  <!-- Main Building -->
+  <rect x="320" y="120" width="160" height="200" rx="5" fill="#71e898" />
+  <rect x="350" y="140" width="30" height="40" rx="15" fill="#ffffff" />
+  <rect x="420" y="140" width="30" height="40" rx="15" fill="#ffffff" />
+  <rect x="350" y="190" width="30" height="30" rx="2" fill="#ffffff" />
+  <rect x="420" y="190" width="30" height="30" rx="2" fill="#ffffff" />
+  <rect x="350" y="230" width="30" height="30" rx="2" fill="#ffffff" />
+  <rect x="420" y="230" width="30" height="30" rx="2" fill="#ffffff" />
+  <rect x="350" y="270" width="30" height="30" rx="2" fill="#ffffff" />
+  <rect x="420" y="270" width="30" height="30" rx="2" fill="#ffffff" />
+  <rect x="370" y="80" width="60" height="40" rx="5" fill="#4ddb7a" />
+  <rect x="385" y="60" width="30" height="20" rx="3" fill="#4ddb7a" />
+  <rect x="380" y="100" width="40" height="20" rx="0" fill="#ffffff" />
+  
+  <!-- Right Building (Orange Store) -->
+  <rect x="520" y="170" width="180" height="150" rx="5" fill="#ff9248" />
+  <rect x="540" y="200" width="140" height="70" rx="10" fill="#ffffff" />
+  <rect x="590" y="270" width="40" height="50" rx="0" fill="#ffffff" />
+  <path d="M500 170 L720 170 L700 145 L520 145 Z" fill="#ff7425" />
+  <path d="M510 145 L530 145 L540 170 L520 170 Z" fill="#ffb38a" />
+  <path d="M550 145 L570 145 L580 170 L560 170 Z" fill="#ffb38a" />
+  <path d="M590 145 L610 145 L620 170 L600 170 Z" fill="#ffb38a" />
+  <path d="M630 145 L650 145 L660 170 L640 170 Z" fill="#ffb38a" />
+  <path d="M670 145 L690 145 L700 170 L680 170 Z" fill="#ffb38a" />
+  
+  <!-- Location Markers -->
+  <!-- Burger Marker -->
+  <circle cx="560" cy="110" r="25" fill="#00c2e0" />
+  <circle cx="560" cy="110" r="20" fill="#00c2e0" />
+  <rect x="545" y="100" width="30" height="5" rx="2" fill="#ffdb58" />
+  <rect x="545" y="107" width="30" height="5" rx="2" fill="#ffdb58" />
+  <rect x="545" y="114" width="30" height="5" rx="2" fill="#ffdb58" />
+  
+  <!-- Cupcake Marker -->
+  <circle cx="270" cy="90" r="25" fill="#00c2e0" />
+  <circle cx="270" cy="90" r="20" fill="#00c2e0" />
+  <path d="M260 90 Q270 75 280 90 L280 100 Q270 105 260 100 Z" fill="#ff6b9e" />
+  <ellipse cx="270" cy="80" rx="3" ry="3" fill="#ffffff" />
+  
+  <!-- Pill Marker -->
+  <circle cx="160" cy="170" r="25" fill="#00c2e0" />
+  <circle cx="160" cy="170" r="20" fill="#00c2e0" />
+  <path d="M150 165 Q150 160 155 160 L165 160 Q170 160 170 165 L170 175 Q170 180 165 180 L155 180 Q150 180 150 175 Z" fill="#ff5c5c" />
+  <path d="M150 170 L170 170" stroke="#ffffff" stroke-width="2" />
+  
+  <!-- Hospital Marker -->
+  <circle cx="400" cy="150" r="30" fill="#66dd66" />
+  <circle cx="400" cy="150" r="25" fill="#66dd66" />
+  <path d="M390 150 L410 150 M400 140 L400 160" stroke="#ffffff" stroke-width="4" />
+  
+  <!-- Trees -->
+  <circle cx="100" cy="320" r="25" fill="#66cc33" />
+  <rect x="95" y="320" width="10" height="15" fill="#7d5a31" />
+  
+  <circle cx="150" cy="330" r="20" fill="#66cc33" />
+  <rect x="145" y="330" width="10" height="15" fill="#7d5a31" />
+  
+  <circle cx="380" cy="350" r="30" fill="#66cc33" />
+  <rect x="375" y="350" width="10" height="20" fill="#7d5a31" />
+  
+  <circle cx="450" cy="340" r="25" fill="#66cc33" />
+  <rect x="445" y="340" width="10" height="15" fill="#7d5a31" />
+</svg> 
